@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">Settings</string>
+	<string id="30011">HomeLYnk IP</string>
+	<string id="30012">HomeLYnk Port</string>
+	<string id="30013">Action</string>
+	<string id="30014">Group addres</string>
+	<string id="30031">On Startup</string>
+	<string id="30032">On Shutdown</string>
+	<string id="30033">On video play</string>
+	<string id="30034">On video pause</string>
+	<string id="30035">On video stop</string>
+	<string id="30036">On audio play</string>
+	<string id="30037">On audio pause</string>
+	<string id="30038">On audio stop</string>
+	<string id="69002">Debug mode</string>
+</strings>

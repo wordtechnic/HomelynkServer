@@ -1,0 +1,7 @@
+[B]0.0.2 - 13-Duben-2015[/B]
+- Doplnění nastavení skupinové adresy do které se zapisují data
+- Upraven script v HomeLYnku
+
+[B]0.0.1 - 01-Unor-2015[/B]
+- Zkušební verze
+- HomeLYnk Event Server

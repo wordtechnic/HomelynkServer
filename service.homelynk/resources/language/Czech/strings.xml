@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">Obecné nastavení</string>
+	<string id="30011">HomeLYnk IP</string>
+	<string id="30012">HomeLYnk Port</string>
+	<string id="30013">Akce</string>
+	<string id="30014">Groupadresa</string>
+	<string id="30031">Při zapnutí</string>
+	<string id="30032">Při vypnutí</string>
+	<string id="30033">Při spuštění videa</string>
+	<string id="30034">Při pausnutí videa</string>
+	<string id="30035">Při stopnutí videa</string>
+	<string id="30036">Při spuštění audia</string>
+	<string id="30037">Při pausnutí audia</string>
+	<string id="30038">Při stopnutí audia</string>
+	<string id="69002">Ladící režim</string>
+</strings>
